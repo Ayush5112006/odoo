@@ -1,3 +1,22 @@
+<?php
+require_once 'config.php';
+// If user is already logged in, redirect to appropriate dashboard
+if (isLoggedIn()) {
+    switch ($_SESSION['role']) {
+        case 'admin':
+            redirect('admin.php');
+            break;
+        case 'manager':
+            redirect('manager.php');
+            break;
+        case 'employee':
+            redirect('employee.php');
+            break;
+        default:
+            // Continue to show landing page
+    }
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,8 +37,8 @@
   <nav class="flex justify-between items-center px-6 py-4 bg-white shadow-sm">
     <div class="text-2xl font-bold text-indigo-600">ExpenseFlow</div>
     <div class="space-x-4">
-      <a href="signin.html" class="text-gray-600 hover:text-indigo-600 font-medium">Sign In</a>
-      <a href="signup.html" class="bg-indigo-600 text-white px-4 py-2 rounded-lg shadow hover:bg-indigo-700 transition">Sign Up</a>
+      <a href="login.php" class="text-gray-600 hover:text-indigo-600 font-medium">Sign In</a>
+      <a href="register.php" class="bg-indigo-600 text-white px-4 py-2 rounded-lg shadow hover:bg-indigo-700 transition">Sign Up</a>
     </div>
   </nav>
 
@@ -32,8 +51,8 @@
       Automate reimbursements, manage multi-level approvals, and gain complete transparency with our powerful ExpenseFlow platform.
     </p>
     <div class="mt-8 space-x-4">
-      <a href="signin.html" class="bg-indigo-600 text-white px-6 py-3 rounded-lg shadow hover:bg-indigo-700 transition font-semibold">Sign In</a>
-      <a href="signup.html" class="bg-gray-100 text-gray-700 px-6 py-3 rounded-lg shadow hover:bg-gray-200 transition font-semibold">Sign Up</a>
+      <a href="login.php" class="bg-indigo-600 text-white px-6 py-3 rounded-lg shadow hover:bg-indigo-700 transition font-semibold">Sign In</a>
+      <a href="register.php" class="bg-gray-100 text-gray-700 px-6 py-3 rounded-lg shadow hover:bg-gray-200 transition font-semibold">Sign Up</a>
     </div>
   </section>
 
