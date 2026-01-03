@@ -1,0 +1,36 @@
+body {
+    background-color: #111;
+    color: white;
+}
+
+.navbar .nav-link {
+    color: #bbb;
+    margin-right: 15px;
+}
+
+.navbar .nav-link.active {
+    color: #fff;
+    border-bottom: 2px solid white;
+}
+
+.profile-img {
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    cursor: pointer;
+    border: 2px solid white;
+}
+
+.card {
+    background: white;
+    color: black;
+    border-radius: 10px;
+}
+
+.badge-present {
+    background: green;
+}
+
+.badge-absent {
+    background: red;
+}

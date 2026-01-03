@@ -1,0 +1,474 @@
+TO: 24dcs129@charusat.edu.in
+SUBJECT: HRMS - Login Credentials
+DATE: 2026-01-03 10:01:41
+
+
+    <html>
+    <body style='font-family: Arial, sans-serif;'>
+        <h2>Your HRMS Login Credentials</h2>
+        <p>Hello Harshil Balar,</p>
+        <p>Welcome to <strong>Oddo</strong> HRMS System!</p>
+        <p>Your login credentials are:</p>
+        <table style='border-collapse: collapse; margin: 20px 0;'>
+            <tr>
+                <td style='padding: 8px; border: 1px solid #ddd; font-weight: bold;'>Email:</td>
+                <td style='padding: 8px; border: 1px solid #ddd;'>24dcs129@charusat.edu.in</td>
+            </tr>
+            <tr>
+                <td style='padding: 8px; border: 1px solid #ddd; font-weight: bold;'>Password:</td>
+                <td style='padding: 8px; border: 1px solid #ddd;'>Dhruv@8986</td>
+            </tr>
+            <tr>
+                <td style='padding: 8px; border: 1px solid #ddd; font-weight: bold;'>Role:</td>
+                <td style='padding: 8px; border: 1px solid #ddd;'>Employee</td>
+            </tr>
+        </table>
+        <p><strong>Next Steps:</strong></p>
+        <ol>
+            <li>Visit: <a href='http://localhost/hrms/auth/login.php'>http://localhost/hrms/auth/login.php</a></li>
+            <li>Login with your email and password</li>
+            <li>Update your profile in account settings</li>
+            <li>Change your password to something secure</li>
+        </ol>
+        <p style='color: #666; font-size: 12px;'><strong>Note:</strong> This is an automated email. Please do not reply.</p>
+        <p>Best regards,<br>HRMS Team</p>
+    </body>
+    </html>
+
+--------------------------------------------------------------------------------
+
+TO: 24dcs150@charusat.edu.in
+SUBJECT: HRMS - Email Verification OTP
+DATE: 2026-01-03 10:12:39
+
+
+    <html>
+    <body style='font-family: Arial, sans-serif;'>
+        <h2>Email Verification - HRMS</h2>
+        <p>Hello,</p>
+        <p>Thank you for registering <strong>Dhruv</strong> with HRMS.</p>
+        <p>Your OTP for email verification is:</p>
+        <h3 style='background-color: #f0f0f0; padding: 10px; border-radius: 5px; text-align: center;'>843150</h3>
+        <p>This OTP will expire in 10 minutes.</p>
+        <p>If you didn't register, please ignore this email.</p>
+        <p>Best regards,<br>HRMS Team</p>
+    </body>
+    </html>
+
+--------------------------------------------------------------------------------
+
+TO: 24dcs150@charusat.edu.in
+SUBJECT: Welcome to HRMS - Dhruv
+DATE: 2026-01-03 10:12:43
+
+
+    <html>
+    <body style='font-family: Arial, sans-serif;'>
+        <h2>Welcome to HRMS!</h2>
+        <p>Hello Dhruv,</p>
+        <p>Thank you for registering <strong>Dhruv</strong> with our HRMS System.</p>
+        <p>You are now set up as the Admin for your company.</p>
+        <p><strong>What you can do:</strong></p>
+        <ul>
+            <li>Manage employees</li>
+            <li>Track attendance</li>
+            <li>Manage leave requests</li>
+            <li>Handle payroll</li>
+            <li>Create HR accounts</li>
+        </ul>
+        <p><strong>Getting Started:</strong></p>
+        <ol>
+            <li>Complete your profile</li>
+            <li>Add HR officers</li>
+            <li>Add employees</li>
+            <li>Start managing your team</li>
+        </ol>
+        <p>For support, contact us anytime.</p>
+        <p>Best regards,<br>HRMS Team</p>
+    </body>
+    </html>
+
+--------------------------------------------------------------------------------
+
+TO: 24dcs139@charusat.edu.in
+SUBJECT: HRMS - Login Credentials
+DATE: 2026-01-03 10:19:34
+
+
+    <html>
+    <body style='font-family: Arial, sans-serif;'>
+        <h2>Your HRMS Login Credentials</h2>
+        <p>Hello Ayush thummar,</p>
+        <p>Welcome to <strong>DayFlow</strong> HRMS System!</p>
+        <p>Your login credentials are:</p>
+        <table style='border-collapse: collapse; margin: 20px 0;'>
+            <tr>
+                <td style='padding: 8px; border: 1px solid #ddd; font-weight: bold;'>Email:</td>
+                <td style='padding: 8px; border: 1px solid #ddd;'>24dcs139@charusat.edu.in</td>
+            </tr>
+            <tr>
+                <td style='padding: 8px; border: 1px solid #ddd; font-weight: bold;'>Password:</td>
+                <td style='padding: 8px; border: 1px solid #ddd;'>student123</td>
+            </tr>
+            <tr>
+                <td style='padding: 8px; border: 1px solid #ddd; font-weight: bold;'>Role:</td>
+                <td style='padding: 8px; border: 1px solid #ddd;'>Employee</td>
+            </tr>
+        </table>
+        <p><strong>Next Steps:</strong></p>
+        <ol>
+            <li>Visit: <a href='http://localhost/hrms/auth/login.php'>http://localhost/hrms/auth/login.php</a></li>
+            <li>Login with your email and password</li>
+            <li>Update your profile in account settings</li>
+            <li>Change your password to something secure</li>
+        </ol>
+        <p style='color: #666; font-size: 12px;'><strong>Note:</strong> This is an automated email. Please do not reply.</p>
+        <p>Best regards,<br>HRMS Team</p>
+    </body>
+    </html>
+
+--------------------------------------------------------------------------------
+
+TO: prit99644@gmail.com
+SUBJECT: HRMS - Email Verification OTP
+DATE: 2026-01-03 10:30:56
+
+
+    <html>
+    <body style='font-family: Arial, sans-serif;'>
+        <h2>Email Verification - HRMS</h2>
+        <p>Hello,</p>
+        <p>Thank you for registering <strong>Depstar</strong> with HRMS.</p>
+        <p>Your OTP for email verification is:</p>
+        <h3 style='background-color: #f0f0f0; padding: 10px; border-radius: 5px; text-align: center;'>992961</h3>
+        <p>This OTP will expire in 10 minutes.</p>
+        <p>If you didn't register, please ignore this email.</p>
+        <p>Best regards,<br>HRMS Team</p>
+    </body>
+    </html>
+
+--------------------------------------------------------------------------------
+
+TO: prit99644@gmail.com
+SUBJECT: Welcome to HRMS - Depstar
+DATE: 2026-01-03 10:31:03
+
+
+    <html>
+    <body style='font-family: Arial, sans-serif;'>
+        <h2>Welcome to HRMS!</h2>
+        <p>Hello PRIT,</p>
+        <p>Thank you for registering <strong>Depstar</strong> with our HRMS System.</p>
+        <p>You are now set up as the Admin for your company.</p>
+        <p><strong>What you can do:</strong></p>
+        <ul>
+            <li>Manage employees</li>
+            <li>Track attendance</li>
+            <li>Manage leave requests</li>
+            <li>Handle payroll</li>
+            <li>Create HR accounts</li>
+        </ul>
+        <p><strong>Getting Started:</strong></p>
+        <ol>
+            <li>Complete your profile</li>
+            <li>Add HR officers</li>
+            <li>Add employees</li>
+            <li>Start managing your team</li>
+        </ol>
+        <p>For support, contact us anytime.</p>
+        <p>Best regards,<br>HRMS Team</p>
+    </body>
+    </html>
+
+--------------------------------------------------------------------------------
+
+TO: 24cs033@charusat.edu.in
+SUBJECT: HRMS - Login Credentials
+DATE: 2026-01-03 10:39:24
+
+
+    <html>
+    <body style='font-family: Arial, sans-serif;'>
+        <h2>Your HRMS Login Credentials</h2>
+        <p>Hello Romit  kakadiya,</p>
+        <p>Welcome to <strong>Depstar</strong> HRMS System!</p>
+        <p>Your login credentials are:</p>
+        <table style='border-collapse: collapse; margin: 20px 0;'>
+            <tr>
+                <td style='padding: 8px; border: 1px solid #ddd; font-weight: bold;'>Email:</td>
+                <td style='padding: 8px; border: 1px solid #ddd;'>24cs033@charusat.edu.in</td>
+            </tr>
+            <tr>
+                <td style='padding: 8px; border: 1px solid #ddd; font-weight: bold;'>Password:</td>
+                <td style='padding: 8px; border: 1px solid #ddd;'>romit</td>
+            </tr>
+            <tr>
+                <td style='padding: 8px; border: 1px solid #ddd; font-weight: bold;'>Role:</td>
+                <td style='padding: 8px; border: 1px solid #ddd;'>Employee</td>
+            </tr>
+        </table>
+        <p><strong>Next Steps:</strong></p>
+        <ol>
+            <li>Visit: <a href='http://localhost/hrms/auth/login.php'>http://localhost/hrms/auth/login.php</a></li>
+            <li>Login with your email and password</li>
+            <li>Update your profile in account settings</li>
+            <li>Change your password to something secure</li>
+        </ol>
+        <p style='color: #666; font-size: 12px;'><strong>Note:</strong> This is an automated email. Please do not reply.</p>
+        <p>Best regards,<br>HRMS Team</p>
+    </body>
+    </html>
+
+--------------------------------------------------------------------------------
+
+TO: 24cs010@charusat.edu.in
+SUBJECT: HRMS - Login Credentials
+DATE: 2026-01-03 10:46:47
+
+
+    <html>
+    <body style='font-family: Arial, sans-serif;'>
+        <h2>Your HRMS Login Credentials</h2>
+        <p>Hello Jenil Bhisra,</p>
+        <p>Welcome to <strong>Depstar</strong> HRMS System!</p>
+        <p>Your login credentials are:</p>
+        <table style='border-collapse: collapse; margin: 20px 0;'>
+            <tr>
+                <td style='padding: 8px; border: 1px solid #ddd; font-weight: bold;'>Email:</td>
+                <td style='padding: 8px; border: 1px solid #ddd;'>24cs010@charusat.edu.in</td>
+            </tr>
+            <tr>
+                <td style='padding: 8px; border: 1px solid #ddd; font-weight: bold;'>Password:</td>
+                <td style='padding: 8px; border: 1px solid #ddd;'>jenil</td>
+            </tr>
+            <tr>
+                <td style='padding: 8px; border: 1px solid #ddd; font-weight: bold;'>Role:</td>
+                <td style='padding: 8px; border: 1px solid #ddd;'>Hr</td>
+            </tr>
+        </table>
+        <p><strong>Next Steps:</strong></p>
+        <ol>
+            <li>Visit: <a href='http://localhost/hrms/auth/login.php'>http://localhost/hrms/auth/login.php</a></li>
+            <li>Login with your email and password</li>
+            <li>Update your profile in account settings</li>
+            <li>Change your password to something secure</li>
+        </ol>
+        <p style='color: #666; font-size: 12px;'><strong>Note:</strong> This is an automated email. Please do not reply.</p>
+        <p>Best regards,<br>HRMS Team</p>
+    </body>
+    </html>
+
+--------------------------------------------------------------------------------
+
+TO: prit99644@gmail.com
+SUBJECT: HRMS - Email Verification OTP
+DATE: 2026-01-03 11:42:04
+
+
+    <html>
+    <body style='font-family: Arial, sans-serif;'>
+        <h2>Email Verification - HRMS</h2>
+        <p>Hello,</p>
+        <p>Thank you for registering <strong>Odoo</strong> with HRMS.</p>
+        <p>Your OTP for email verification is:</p>
+        <h3 style='background-color: #f0f0f0; padding: 10px; border-radius: 5px; text-align: center;'>184388</h3>
+        <p>This OTP will expire in 10 minutes.</p>
+        <p>If you didn't register, please ignore this email.</p>
+        <p>Best regards,<br>HRMS Team</p>
+    </body>
+    </html>
+
+--------------------------------------------------------------------------------
+
+TO: prit99644@gmail.com
+SUBJECT: Welcome to HRMS - Odoo
+DATE: 2026-01-03 11:42:10
+
+
+    <html>
+    <body style='font-family: Arial, sans-serif;'>
+        <h2>Welcome to HRMS!</h2>
+        <p>Hello PRIT,</p>
+        <p>Thank you for registering <strong>Odoo</strong> with our HRMS System.</p>
+        <p>You are now set up as the Admin for your company.</p>
+        <p><strong>What you can do:</strong></p>
+        <ul>
+            <li>Manage employees</li>
+            <li>Track attendance</li>
+            <li>Manage leave requests</li>
+            <li>Handle payroll</li>
+            <li>Create HR accounts</li>
+        </ul>
+        <p><strong>Getting Started:</strong></p>
+        <ol>
+            <li>Complete your profile</li>
+            <li>Add HR officers</li>
+            <li>Add employees</li>
+            <li>Start managing your team</li>
+        </ol>
+        <p>For support, contact us anytime.</p>
+        <p>Best regards,<br>HRMS Team</p>
+    </body>
+    </html>
+
+--------------------------------------------------------------------------------
+
+TO: prit99644@gmail.com
+SUBJECT: HRMS - Email Verification OTP
+DATE: 2026-01-03 11:46:19
+
+
+    <html>
+    <body style='font-family: Arial, sans-serif;'>
+        <h2>Email Verification - HRMS</h2>
+        <p>Hello,</p>
+        <p>Thank you for registering <strong>Odoo</strong> with HRMS.</p>
+        <p>Your OTP for email verification is:</p>
+        <h3 style='background-color: #f0f0f0; padding: 10px; border-radius: 5px; text-align: center;'>849446</h3>
+        <p>This OTP will expire in 10 minutes.</p>
+        <p>If you didn't register, please ignore this email.</p>
+        <p>Best regards,<br>HRMS Team</p>
+    </body>
+    </html>
+
+--------------------------------------------------------------------------------
+
+TO: prit99644@gmail.com
+SUBJECT: Welcome to HRMS - Odoo
+DATE: 2026-01-03 11:46:44
+
+
+    <html>
+    <body style='font-family: Arial, sans-serif;'>
+        <h2>Welcome to HRMS!</h2>
+        <p>Hello PRIT,</p>
+        <p>Thank you for registering <strong>Odoo</strong> with our HRMS System.</p>
+        <p>You are now set up as the Admin for your company.</p>
+        <p><strong>What you can do:</strong></p>
+        <ul>
+            <li>Manage employees</li>
+            <li>Track attendance</li>
+            <li>Manage leave requests</li>
+            <li>Handle payroll</li>
+            <li>Create HR accounts</li>
+        </ul>
+        <p><strong>Getting Started:</strong></p>
+        <ol>
+            <li>Complete your profile</li>
+            <li>Add HR officers</li>
+            <li>Add employees</li>
+            <li>Start managing your team</li>
+        </ol>
+        <p>For support, contact us anytime.</p>
+        <p>Best regards,<br>HRMS Team</p>
+    </body>
+    </html>
+
+--------------------------------------------------------------------------------
+
+TO: prit99644@gmail.com
+SUBJECT: HRMS - Email Verification OTP
+DATE: 2026-01-03 11:55:19
+
+
+    <html>
+    <body style='font-family: Arial, sans-serif;'>
+        <h2>Email Verification - HRMS</h2>
+        <p>Hello,</p>
+        <p>Thank you for registering <strong>Odoo</strong> with HRMS.</p>
+        <p>Your OTP for email verification is:</p>
+        <h3 style='background-color: #f0f0f0; padding: 10px; border-radius: 5px; text-align: center;'>105636</h3>
+        <p>This OTP will expire in 10 minutes.</p>
+        <p>If you didn't register, please ignore this email.</p>
+        <p>Best regards,<br>HRMS Team</p>
+    </body>
+    </html>
+
+--------------------------------------------------------------------------------
+
+TO: prit99644@gmail.com
+SUBJECT: Welcome to HRMS - Odoo
+DATE: 2026-01-03 11:56:15
+
+
+    <html>
+    <body style='font-family: Arial, sans-serif;'>
+        <h2>Welcome to HRMS!</h2>
+        <p>Hello PRIT,</p>
+        <p>Thank you for registering <strong>Odoo</strong> with our HRMS System.</p>
+        <p>You are now set up as the Admin for your company.</p>
+        <p><strong>What you can do:</strong></p>
+        <ul>
+            <li>Manage employees</li>
+            <li>Track attendance</li>
+            <li>Manage leave requests</li>
+            <li>Handle payroll</li>
+            <li>Create HR accounts</li>
+        </ul>
+        <p><strong>Getting Started:</strong></p>
+        <ol>
+            <li>Complete your profile</li>
+            <li>Add HR officers</li>
+            <li>Add employees</li>
+            <li>Start managing your team</li>
+        </ol>
+        <p>For support, contact us anytime.</p>
+        <p>Best regards,<br>HRMS Team</p>
+    </body>
+    </html>
+
+--------------------------------------------------------------------------------
+
+TO: 24dcs139@charusat.edu.in
+SUBJECT: HRMS - Email Verification OTP
+DATE: 2026-01-03 11:58:27
+
+
+    <html>
+    <body style='font-family: Arial, sans-serif;'>
+        <h2>Email Verification - HRMS</h2>
+        <p>Hello,</p>
+        <p>Thank you for registering <strong>Odoo</strong> with HRMS.</p>
+        <p>Your OTP for email verification is:</p>
+        <h3 style='background-color: #f0f0f0; padding: 10px; border-radius: 5px; text-align: center;'>874590</h3>
+        <p>This OTP will expire in 10 minutes.</p>
+        <p>If you didn't register, please ignore this email.</p>
+        <p>Best regards,<br>HRMS Team</p>
+    </body>
+    </html>
+
+--------------------------------------------------------------------------------
+
+TO: 24dcs139@charusat.edu.in
+SUBJECT: Welcome to HRMS - Odoo
+DATE: 2026-01-03 11:58:44
+
+
+    <html>
+    <body style='font-family: Arial, sans-serif;'>
+        <h2>Welcome to HRMS!</h2>
+        <p>Hello PRIT,</p>
+        <p>Thank you for registering <strong>Odoo</strong> with our HRMS System.</p>
+        <p>You are now set up as the Admin for your company.</p>
+        <p><strong>What you can do:</strong></p>
+        <ul>
+            <li>Manage employees</li>
+            <li>Track attendance</li>
+            <li>Manage leave requests</li>
+            <li>Handle payroll</li>
+            <li>Create HR accounts</li>
+        </ul>
+        <p><strong>Getting Started:</strong></p>
+        <ol>
+            <li>Complete your profile</li>
+            <li>Add HR officers</li>
+            <li>Add employees</li>
+            <li>Start managing your team</li>
+        </ol>
+        <p>For support, contact us anytime.</p>
+        <p>Best regards,<br>HRMS Team</p>
+    </body>
+    </html>
+
+--------------------------------------------------------------------------------
+
